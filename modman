@@ -1,0 +1,7 @@
+src/app/code/core/Mage/CatalogSearch/                                app/code/core/Mage/CatalogSearch/
+src/app/design/frontend/base/default/layout/catalogsearch.xml        app/design/frontend/base/default/layout/catalogsearch.xml
+src/app/design/frontend/base/default/template/catalogsearch/         app/design/frontend/base/default/template/catalogsearch/
+src/app/design/frontend/rwd/default/layout/catalogsearch.xml         app/design/frontend/rwd/default/layout/catalogsearch.xml
+src/app/design/frontend/rwd/default/template/catalogsearch/          app/design/frontend/rwd/default/template/catalogsearch/
+src/app/etc/modules/Mage_CatalogSearch.xml                           app/etc/modules/Mage_CatalogSearch.xml
+src/app/locale/en_US/Mage_CatalogSearch.csv                          app/locale/en_US/Mage_CatalogSearch.csv
